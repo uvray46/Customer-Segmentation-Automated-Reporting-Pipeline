@@ -1,5 +1,5 @@
 # Customer-Segmentation-Automated-Reporting-Pipeline 
-<img width="1280" height="720" alt="image" src="[https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66693af8a543407c30c675e8_AD_4nXdbVMeQrllNgJGkHvWortq6GLCa8JX45YmYsOiSqgUpmbTD0xtfyD5zkW5Mf7e1Hz0TjkQBdZDUEuqqQOmQoUgEqdmVcBRfidU6zs4c7x3XtPkbnF0awgB6AaY7wtzrvyG4B2iObP9QweeWmtoXakuhZVu7.jpeg]" />
+<img width="1349" height="600" alt="image" src="https://github.com/user-attachments/assets/009df762-f202-46b8-9a2f-c125e535f753" />
 
 **Author:** James Whitmarsh
 
