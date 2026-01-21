@@ -1,4 +1,4 @@
-# Customer-Segmentation-Automated-Reporting-Pipeline 
+# Customer Segmentation Automated Reporting Pipeline 
 <img width="1349" height="600" alt="image" src="https://github.com/user-attachments/assets/009df762-f202-46b8-9a2f-c125e535f753" />
 
 **Author:** James Whitmarsh
