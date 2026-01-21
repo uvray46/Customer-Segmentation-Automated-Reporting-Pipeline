@@ -3,8 +3,6 @@
 
 **Author:** James Whitmarsh
 
-**Date:** 09/01/2025 
-
 **Tooling:** PostgreSQL, Python (pandas + SQLAlchemy), Power BI Desktop 
 
 ## Introduction  
