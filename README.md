@@ -1,5 +1,5 @@
 # Customer-Segmentation-Automated-Reporting-Pipeline 
-<img width="1280" height="720" alt="image" src="[https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66693af8a543407c30c675e8_AD_4nXdbVMeQrllNgJGkHvWortq6GLCa8JX45YmYsOiSqgUpmbTD0xtfyD5zkW5Mf7e1Hz0TjkQBdZDUEuqqQOmQoUgEqdmVcBRfidU6zs4c7x3XtPkbnF0awgB6AaY7wtzrvyG4B2iObP9QweeWmtoXakuhZVu7.jpeg]" />
+<img width="1280" height="720" alt="image" src="[https://www.bing.com/images/search?view=detailV2&ccid=vRknxL1v&id=AB272097DAB1217C4350F7192D7A25EB73F855FB&thid=OIP.vRknxL1vrWee-lILmtJKEgHaEJ&mediaurl=https%3a%2f%2fimg.freepik.com%2fpremium-photo%2fschematic-data-pipeline-background_1046712-840.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bd1927c4bd6fad679efa520b9ad24a12%3frik%3d%252b1X4c%252bslei0Z9w%26pid%3dImgRaw%26r%3d0&exph=351&expw=626&q=data+pipline+visual+background&FORM=IRPRST&ck=CE4271E4B95DF2BD2B107FF9CE7E4E64&selectedIndex=2&itb=0]" />
 
 **Author:** James Whitmarsh
 
